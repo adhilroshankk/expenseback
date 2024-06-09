@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "description": "food",
+      "amount": 1000,
+      "date": "26-10-1999"
+    },
+    {
+      "id": 2,
+      "description": "travel",
+      "amount": 30000,
+      "date": "29-10-1999"
+    },
+    {
+      "description": "luxury",
+      "amount": "8000",
+      "year": "",
+      "date": "2024-06-07",
+      "id": 3
+    },
+    {
+      "description": "laundry",
+      "amount": "400",
+      "year": "",
+      "date": "2024-05-31",
+      "id": 4
+    },
+    {
+      "description": "work",
+      "amount": "4000",
+      "year": "",
+      "date": "2024-06-15",
+      "id": 5
+    },
+    {
+      "description": "games",
+      "amount": "5000",
+      "year": "",
+      "date": "2024-06-25",
+      "id": 6
+    }
+  ]
+}
